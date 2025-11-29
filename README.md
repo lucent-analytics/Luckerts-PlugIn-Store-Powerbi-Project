@@ -64,7 +64,7 @@ The dashboard analyzes sales data with the following dimensions:
 4. **Sales Patterns**: Significant variation by day of week suggests opportunity for targeted promotions
 
 ## Preview
-[Dashboard Screenshot] (https://github.com/lucent-analytics/Luckerts-PlugIn-Powerbi-Project/commit/d1a9d7500789b5dc706d3c89eadb460c247d0e46)
+![Dashboard Screenshot](https://github.com/lucent-analytics/Luckerts-PlugIn-Store-Powerbi-Project/blob/main/Luckerts%20PlugIn%20Dashboard%20Image.png))
 
 ## Contact Information
 
