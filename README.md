@@ -66,6 +66,9 @@ The dashboard analyzes sales data with the following dimensions:
 ## Preview
 ![Dashboard Screenshot](https://github.com/lucent-analytics/Luckerts-PlugIn-Store-Powerbi-Project/blob/main/Luckerts%20PlugIn%20Dashboard%20Image.png))
 
+## Project Background
+This project was completed as part of the internship program at Cirvee Academy, demonstrating practical applications of Power BI for business intelligence and data analytics.
+
 ## Contact Information
 
 **Project Owner**: Amudipe Ayomide 
